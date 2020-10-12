@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">[MiW] Snackbar</string>
+    <string name="action_settings">Settings</string>
+    <string name="message">Pop-up message</string>
+</resources>
